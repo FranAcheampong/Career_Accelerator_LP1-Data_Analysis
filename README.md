@@ -88,3 +88,24 @@ Analysis & Visualisation:
 
 -   **Fair**: Lack of clarity on whether the hypothesis was true or not.
     Answered some of the questions listed.
+
+    PROPOSED/SUGGESTED SOLUTION: WEEK ONE ASSIGNMENT – INDIAN START-UP ECOSYSTEMS
+Title of project
+a.	Understanding the Indian Start-up Ecosystem: Analysis and Recommendations
+Or 
+b.	A deep dive into Indian Start-up Ecosystem and predicting the future of the business using data analytics tools.
+Description of the project
+ This project aims to provide insights into the Indian start-up ecosystem, including its current state, trends, and potential opportunities for growth. Through data analysis and visualization, we aim to identify key areas of focus for our team to enter the market and make a significant impact.
+Questions
+1.	What is the current state of the Indian startup ecosystem?
+2.	What are the key sectors that have seen significant growth in terms of funding and investment?
+3.	Which cities in India are the key hubs for startups?
+4.	What are the trends in terms of funding rounds for Indian startups?
+5.	How have the COVID-19 pandemic affected the Indian startup ecosystem?
+Hypothesis
+1.	The Indian startup ecosystem is on the rise and is attracting significant investment from both domestic and foreign investors.
+2.	The technology sector is the most significant sector in terms of funding and investment.
+3.	Bengaluru is the primary hub for startups in India, followed by Mumbai and Delhi-NCR.
+4.	The number of early-stage funding rounds has increased significantly in recent years.
+5.	The COVID-19 pandemic has had a significant impact on the Indian startup ecosystem, with some sectors benefiting more than others.
+
