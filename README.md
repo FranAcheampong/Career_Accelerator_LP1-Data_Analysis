@@ -107,5 +107,5 @@ Hypothesis
 2.	The technology sector is the most significant sector in terms of funding and investment.
 3.	Bengaluru is the primary hub for startups in India, followed by Mumbai and Delhi-NCR.
 4.	The number of early-stage funding rounds has increased significantly in recent years.
-5.	The COVID-19 pandemic has had a significant impact on the Indian startup ecosystem, with some sectors benefiting more than others.
+5.	The COVID-19 pandemic has had a significant impact on the Indian startup ecosystem, with some sectors benefiting more than others..
 
